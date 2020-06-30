@@ -9,6 +9,10 @@ This set of tracks is a slow walk.
 
 <img src='/SlowWalk/TopViewThreeBoxes_Small.JPG' width=800>
 
+<img src='/SlowWalk/threeFootPrintWithDistances.png' width=400>
+
+
+
 Track 00 is in wet sand
 
 <img src='/SlowWalk/Track00TopView_Small.JPG' width=800>
