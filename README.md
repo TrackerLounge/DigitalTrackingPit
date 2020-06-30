@@ -10,5 +10,5 @@ For details on the types of sand in each box see:
 For details on how the tracks were digitized see:
 [Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
 
-#Scenerios
-[Slow Walk](https://github.com/TrackerLounge/Home)
+# Scenerios
+[Slow Walk](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/SlowWalk.md)
