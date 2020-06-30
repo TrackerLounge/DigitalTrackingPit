@@ -4,6 +4,12 @@ Main Menu of Projects
 # Digital Tracking Pit
 A collection of tracks (foot prints) 3D models depicting common walking patterns and pressure releases.
 
+For details on the types of sand in each box see:
+[Three Box Tracking Pit for the Home Shop](https://github.com/TrackerLounge/ThreeBoxTrackingPitForTheHomeShop)
+
+For details on how the tracks were digitized see:
+[Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
+
 # Slow Walk
 This set of tracks is a slow walk.
 
