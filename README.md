@@ -2,7 +2,7 @@
 Main Menu of Projects
 
 # Digital Tracking Pit
-A collection of tracks (foot prints) 3D models depicting common walking patterns and pressure releases.
+A collection of tracks (foot prints) 3D models depicting common walking patterns and pressure releases. These files can be viewed in Blender3d, a free tool available at <a href="https://www.blender.org/">blender.org</a>
 
 For details on the types of sand in each box see:
 [Three Box Tracking Pit for the Home Shop](https://github.com/TrackerLounge/ThreeBoxTrackingPitForTheHomeShop)
