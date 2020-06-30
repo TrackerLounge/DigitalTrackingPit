@@ -1,6 +1,6 @@
 [Home Page](https://github.com/TrackerLounge/Home)
 
-[Digital Tracking Pit](https://trackerlounge.github.io/DigitalTrackingPit/)
+[Digital Tracking Pit](https://github.com/TrackerLounge/DigitalTrackingPit)
 
 # Slow Walk
 This set of tracks is a slow walk.
