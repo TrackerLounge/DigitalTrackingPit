@@ -78,5 +78,5 @@ Unfortunately I could not upload the textured file to Github. I can upload a dec
 <img src='/FastWalk/track02InBlender_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
-<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/tracks02_decimated.zip">Download FILE - tracks02_decimated.zip</a>
-Note: I had to apply a decimator modifier of type planer by a factor of 20 to reduce the number of verticies from ~1.3 million to ~500,000 and then zip compress it to get the file small enough for GitHub to allow me to upload it. The model looks pretty similar to original model.
+<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track02_decimated_20.zip">Download FILE - track02_decimated_20.zip</a>
+Note: I had to apply a decimator modifier of type planer by a factor of 20 to reduce the number of verticies to make the file small enough to upload to github.
