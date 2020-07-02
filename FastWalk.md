@@ -18,14 +18,14 @@ Track 00 is in wet sand
 <img src='/FastWalk/track00InBlenderWithTexture_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
-<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track_with_texture.zip">Download FILE - track_with_texture.zip</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track00_textured_decimated_5.zip">Download FILE - track00_textured_decimated_5.zip</a>
 
 For some purposes it may be easier to work with the model without the sand texture applied. For example, if you want to apply a shader based on elevation, having no texture is easier. See [Tracking and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection) and [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 
 <img src='/FastWalk/track00InBlender_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the untextured track.blend file can be downloaded from:
-<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track.zip">Download FILE - track.zip</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track00.zip">Download FILE - track00.zip</a>
 
 
 
