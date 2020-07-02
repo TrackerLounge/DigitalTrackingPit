@@ -11,7 +11,7 @@ This set of tracks is a fast walk.
 
 
 
-Track 00 is in wet sand
+# Track 00 is in wet sand
 
 <img src='/FastWalk/Track00TopView_Small.JPG' width=800>
 
@@ -29,7 +29,7 @@ If you would like to take a look at the mesh in blender, the untextured track.bl
 
 
 
-Track 01 is in dry loose sand
+# Track 01 is in dry loose sand
 
 <img src='/FastWalk/Track01TopView_Small.JPG' width=800>
 
@@ -75,7 +75,7 @@ And Colored
 <img src='/FastWalk/track01EdgeDetected02_Small.jpg' width=800>
 
 
-Track 02 is in wet packed sand
+# Track 02 is in wet packed sand
 
 <img src='/FastWalk/Track02TopView_Small.JPG' width=800>
 
