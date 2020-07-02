@@ -15,7 +15,7 @@ Track 00 is in wet sand
 
 <img src='/SlowWalk/Track00TopView_Small.JPG' width=800>
 
-<img src='/SlowWalk/track01InBlenderWithTexture_Small.jpg' width=800>
+<img src='/SlowWalk/track00InBlenderWithTexture_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/track_with_texture.zip">Download FILE - track_with_texture.zip</a>
@@ -32,6 +32,11 @@ If you would like to take a look at the mesh in blender, the untextured track.bl
 Track 01 is in dry loose sand
 
 <img src='/SlowWalk/Track01TopView_Small.JPG' width=800>
+
+<img src='/SlowWalk/track01InBlenderWithTexture_Small.jpg' width=800>
+
+If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
+<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/tracks01_textured.zip">Download FILE - tracks01_textured.zip</a>
 
 <img src='/SlowWalk/track01InBlender_Small.jpg' width=800>
 
