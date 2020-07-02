@@ -12,3 +12,5 @@ For details on how the tracks were digitized see:
 
 # Scenerios
 [Slow Walk](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/SlowWalk.md)
+
+[Fast Walk](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/FastWalk.md)
