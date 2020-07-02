@@ -47,9 +47,9 @@ Track 02 is in wet packed sand
 
 <img src='/SlowWalk/Track02TopView_Small.JPG' width=800>
 
-<img src='/SlowWalk/track02InBlender_Small.jpg' width=800>
+Unfortunately I could not upload the textured file to Github - if I decimated the model by a factor of 8, it might be smaller than the 25 MB limit but it began to show unacceptable deteriation in the quality of the model. Sorry. <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/tracks02_textured_decimated_by_8.zip">Download FILE - tracks02_textured_decimated_by_8.zip</a>
 
-Unfortunately I could not upload the textured file to Github - if I decimated the model by a factor of 8, it might be smaller than the 25 MB limit but it began to show unacceptable deteriation in the quality of the model. Sorry.
+<img src='/SlowWalk/track02InBlender_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/tracks02_decimated.zip">Download FILE - tracks02_decimated.zip</a>
