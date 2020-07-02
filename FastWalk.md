@@ -31,6 +31,14 @@ If we were to cut the model into a thin strip along a line from the deepest poin
 
 <img src='/FastWalk/track00CrossSectionFromToeToHeal.jpg' width=800>
 
+We can see a nice disk crumble pressure release in this track.
+
+If we were to cut the model into a thin strip along  the deepest point in the toe area from the pinky toe side to the big toe side, it would look something like:
+
+<img src='/FastWalk/track00CrossSectionFromPinkyToeToBigToe.jpg' width=800>
+
+Note: I had trouble with this cross section from pinky to big toe. It was hard to find the deepest point and even a small shift forward or back greatly changed the shape of the cross section.
+
 # Track 01 is in dry loose sand
 
 <img src='/FastWalk/Track01TopView_Small.JPG' width=800>
@@ -51,6 +59,8 @@ This track proves difficult to edge detect because it has a dish pressure releas
 If we were to cut the model into a thin strip along a line from the deepest point in the toe area to the deepest point in the heal area, it would look something like:
 
 <img src='/FastWalk/track01CrossSectionFromToeToHeal.jpg' width=800>
+
+We can see a nice dish pressure release in this track and a bit of a plate pressure release outside the track from pressure along the wall of the track.
 
 If we were to cut the model into a thin strip along  the deepest point in the toe area from the pinky toe side to the big toe side, it would look something like:
 
@@ -94,6 +104,8 @@ Note: I had to apply a decimator modifier of type planer by a factor of 20 to re
 If we were to cut the model into a thin strip along a line from the deepest point in the toe area to the deepest point in the heal area, it would look something like:
 
 <img src='/FastWalk/crossSectionFromToeToHeal.jpg' width=800>
+
+We can see a nice dish pressure release in this track and a bit of a plate pressure release outside the track from pressure along the wall of the track.
 
 If we were to cut the model into a thin strip along  the deepest point in the toe area from the pinky toe side to the big toe side, it would look something like:
 
