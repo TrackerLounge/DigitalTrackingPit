@@ -36,7 +36,8 @@ Track 01 is in dry loose sand
 <img src='/FastWalk/track01InBlenderWithTexture_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
-<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/tracks01_textured.zip">Download FILE - tracks01_textured.zip</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track01_textured_decimated_10.zip">Download FILE - track01_textured_decimated_10.zip</a>
+Note: I had to decimate this to get it small enough to upload - it lost quality as a result.
 
 <img src='/FastWalk/track01InBlender_Small.JPG' width=800>
 
