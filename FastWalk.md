@@ -50,6 +50,10 @@ If we were to cut the model into a thin strip along a line from the deepest poin
 
 <img src='/FastWalk/track01CrossSectionFromToeToHeal.jpg' width=800>
 
+If we were to cut the model into a thin strip along  the deepest point in the toe area from the pinky toe side to the big toe side, it would look something like:
+
+<img src='/FastWalk/track01CrossSectionFromPinkyToeToBigToe.jpg' width=800>
+
 If we were to color the untextured model along the Z-axis we would see:
 
 <img src='/FastWalk/track01ColoredByZAxis_Small.jpg' width=800>
