@@ -75,7 +75,7 @@ Track 02 is in wet packed sand
 
 Unfortunately I could not upload the textured file to Github. I can upload a decimated file, if I decimated the model by a factor of 8, so that it is smaller than the 25 MB limit but it show unacceptable deteriation in the quality of the model. Sorry. <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/tracks02_textured_decimated_by_8.zip">Download FILE - tracks02_textured_decimated_by_8.zip</a>
 
-<img src='/FastWalk/track02InBlender_Small.jpg' width=800>
+<img src='/FastWalk/track02InBlender_Small.JPG' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track02_decimated_20.zip">Download FILE - track02_decimated_20.zip</a>
