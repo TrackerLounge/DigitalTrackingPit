@@ -38,10 +38,10 @@ Track 01 is in dry loose sand
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/tracks01_textured.zip">Download FILE - tracks01_textured.zip</a>
 
-<img src='/FastWalk/track01InBlender_Small.jpg' width=800>
+<img src='/FastWalk/track01InBlender_Small.JPG' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
-<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track01.zip">Download FILE - track01.zip</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track01_decimated_20.zip">Download FILE - track01_decimated_20.zip</a>
 
 Track 02 is in wet packed sand
 
