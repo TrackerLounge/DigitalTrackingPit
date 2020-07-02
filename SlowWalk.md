@@ -42,6 +42,7 @@ If you would like to take a look at the mesh in blender, the track.blend file ca
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/track01.zip">Download FILE - track01.zip</a>
+Note: I had to apply a decimator modifier of type planer by a factor of 5 to get GitHub to allow me to upload the file.
 
 Track 02 is in wet packed sand
 
