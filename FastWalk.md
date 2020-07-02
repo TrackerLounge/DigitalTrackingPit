@@ -80,3 +80,8 @@ Unfortunately I could not upload the textured file to Github. I can upload a dec
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track02_decimated_20.zip">Download FILE - track02_decimated_20.zip</a>
 Note: I had to apply a decimator modifier of type planer by a factor of 20 to reduce the number of verticies to make the file small enough to upload to github.
+
+If we were to cut the model into a thin strip along a line from the deepest point in the toe area to the deepest point in the heal area it would look something like:
+
+<img src='/FastWalk/crossSectionFromToeToHeal.jpg' width=800>
+
