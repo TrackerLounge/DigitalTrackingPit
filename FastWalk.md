@@ -46,6 +46,10 @@ If you would like to take a look at the mesh in blender, the track.blend file ca
 
 This track proves difficult to edge detect because it has a dish pressure release inside the borders of the track, and raising above the surrounding sand. At the same time it has a plate formation on the outside of the track, again rising above the surrounding sand. This creates a complex situation for edge detection and object segmentation and association from a computer vision perspective. 
 
+If we were to cut the model into a thin strip along a line from the deepest point in the toe area to the deepest point in the heal area, it would look something like:
+
+<img src='/FastWalk/track01CrossSectionFromToeToHeal.jpg' width=800>
+
 If we were to color the untextured model along the Z-axis we would see:
 
 <img src='/FastWalk/track01ColoredByZAxis_Small.jpg' width=800>
