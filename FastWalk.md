@@ -15,7 +15,7 @@ Track 00 is in wet sand
 
 <img src='/FastWalk/Track00TopView_Small.JPG' width=800>
 
-<img src='/FastWalk/track00InBlenderWithTexture_Small.jpg' width=800>
+<img src='/FastWalk/track00InBlenderWithTexture_Small.JPG' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track00_textured_decimated_5.zip">Download FILE - track00_textured_decimated_5.zip</a>
