@@ -49,7 +49,7 @@ Track 02 is in wet packed sand
 
 <img src='/SlowWalk/track02InBlenderWithTexture_Small.jpg' width=800>
 
-Unfortunately I could not upload the textured file to Github - if I decimated the model by a factor of 8, it might be smaller than the 25 MB limit but it began to show unacceptable deteriation in the quality of the model. Sorry. <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/tracks02_textured_decimated_by_8.zip">Download FILE - tracks02_textured_decimated_by_8.zip</a>
+Unfortunately I could not upload the textured file to Github. I can upload a decimated file, if I decimated the model by a factor of 8, so that it is smaller than the 25 MB limit but it show unacceptable deteriation in the quality of the model. Sorry. <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/SlowWalk/tracks02_textured_decimated_by_8.zip">Download FILE - tracks02_textured_decimated_by_8.zip</a>
 
 <img src='/SlowWalk/track02InBlender_Small.jpg' width=800>
 
