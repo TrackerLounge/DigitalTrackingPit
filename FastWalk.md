@@ -27,7 +27,9 @@ For some purposes it may be easier to work with the model without the sand textu
 If you would like to take a look at the mesh in blender, the untextured track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/FastWalk/track00.zip">Download FILE - track00.zip</a>
 
+If we were to cut the model into a thin strip along a line from the deepest point in the toe area to the deepest point in the heal area, it would look something like:
 
+<img src='/FastWalk/track00CrossSectionFromToeToHeal.jpg' width=800>
 
 # Track 01 is in dry loose sand
 
