@@ -70,6 +70,8 @@ If we were to color the untextured model along the Z-axis we would see:
 
 <img src='/FastWalk/track01ColoredByZAxis_Small.jpg' width=800>
 
+It is common in computer vision to search for edges of a track. For more on edge detection techniques see [Tracking and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection)
+
 If we manually attempted to edge detect by thresholding the image, eroding and dilating, and finally edge detecting the result, we might see something like this:
 
 <img src='/FastWalk/track01EdgeDetected_uncolored_Small.jpg' width=800>
