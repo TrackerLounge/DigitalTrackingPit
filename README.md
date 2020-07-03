@@ -11,6 +11,7 @@ For details on how the tracks were digitized see:
 [Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
 
 # Track Comparison - Moist Sand, Dry Loose Sand, Packed Hard Sand
+[Left Foot 20 Inch Stride](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/LeftFoot20InchStride.md)
 
 # Scenerios
 [Slow Walk](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/SlowWalk.md)
