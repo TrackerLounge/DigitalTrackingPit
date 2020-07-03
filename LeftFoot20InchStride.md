@@ -4,7 +4,11 @@
 
 # Left Foot Making a 20 Inch Stride
 
+
+
 # In Wet Sand
+<img src='/LeftFoot20InchStride/LF_20in_Strind_wet_Sand_top_view_cropped_small.JPG' width=800>
+
 <img src='/LeftFoot20InchStride/lf_20in_Stride_Wet_Sand_In_Blender_Textured_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
