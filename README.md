@@ -10,6 +10,8 @@ For details on the types of sand in each box see:
 For details on how the tracks were digitized see:
 [Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
 
+# Description of Shoes
+
 # Track Comparison - Moist Sand, Dry Loose Sand, Packed Hard Sand
 [Left Foot 20 Inch Stride](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/LeftFoot20InchStride.md)
 
