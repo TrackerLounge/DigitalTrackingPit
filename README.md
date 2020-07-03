@@ -10,6 +10,8 @@ For details on the types of sand in each box see:
 For details on how the tracks were digitized see:
 [Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
 
+# Track Comparison - Moist Sand, Dry Loose Sand, Packed Hard Sand
+
 # Scenerios
 [Slow Walk](https://github.com/TrackerLounge/DigitalTrackingPit/blob/master/SlowWalk.md)
 
