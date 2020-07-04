@@ -25,8 +25,6 @@ If you would like to take a look at the mesh in blender, the untextured track.bl
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/LeftFoot20InchStride/LF_20in_Stride_Wet_Sand.zip">Download FILE - LF_20in_Stride_Wet_Sand.zip</a>
 
 # In Dry Loose Sand
-<TODO - Upload images and models>
-
 <img src='/LeftFoot20InchStride/LF_20in_Strind_Dry_Sand_top_view_cropped_small.JPG' width=800>
 
 <img src='/LeftFoot20InchStride/lf_20in_Stride_Dry_Sand_In_Blender_Textured_Small.jpg' width=800>
