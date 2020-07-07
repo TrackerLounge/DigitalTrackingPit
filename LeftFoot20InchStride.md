@@ -41,6 +41,8 @@ If you would like to take a look at the mesh in blender, the untextured track.bl
 
 
 # In Dry Packed Hard Sand
+<img src='/LeftFoot20InchStride/LF_20in_Stride_Pack_Sand_Small.jpg' width=800>
+
 <TODO - Upload images and models>
   
 <img src='/LeftFoot20InchStride/LF_20in_Stride_Pack_Sand_InBlender_Small.jpg' width=800>
