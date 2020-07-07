@@ -72,21 +72,14 @@ If we were to color the untextured model along the Z-axis we would see:
 
 It is common in computer vision to search for edges of a track. For more on edge detection techniques see [Tracking and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection)
 
-If we manually attempted to edge detect by thresholding the image, eroding and dilating, and finally edge detecting the result, we might see something like this:
+If we use [Fast Fourier Transform and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection/blob/master/FastFourierTransformAndEdgeDetection.md)
+with settings 600 and 10, we get:
 
-<img src='/FastWalk/track01EdgeDetected_uncolored_Small.jpg' width=800>
+<img src='/FastWalk/track01ColoredByZAxis_Small_FFTEdge.jpg' width=800>
 
-And Colored
+If we convolve the FFT binary image we see:
 
-<img src='/FastWalk/track01EdgeDetected_Small.jpg' width=800>
-
-Or If we manually attempted to edge detect by auto-thresholding the image, eroding and dilating, and finally edge detecting the result, we might see something like this:
-
-<img src='/FastWalk/track01EdgeDetected02_uncolored_Small.jpg' width=800>
-
-And Colored
-
-<img src='/FastWalk/track01EdgeDetected02_Small.jpg' width=800>
+<img src='/FastWalk/track01ColoredByZAxis_Small_FFTEdge_Convolve.jpg' width=800>
 
 
 # Track 02 is in wet packed sand
