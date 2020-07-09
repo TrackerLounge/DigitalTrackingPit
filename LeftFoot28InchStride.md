@@ -6,6 +6,8 @@
 We will attempt to compare the same step in three substrates: wet sand, dry loose sand, and dry packed hard sand
 This should illustrate how pressure releases change in appearance in a track in these three substrates.
 
+<img src='/LeftFoot28InchStride/LF_28in_Stride_Diagram.png' width=800>
+
 # In Wet Sand
 TODO - Upload models and images
 
