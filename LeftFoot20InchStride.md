@@ -54,6 +54,7 @@ If you would like to take a look at the mesh in blender, the untextured track.bl
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/LeftFoot20InchStride/LF_20in_Stride_Pack_Sand_decimate_9.zip">Download FILE - LF_20in_Stride_Pack_Sand_decimate_9.zip</a>
 
 # In Cup of Sand on Concrete
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_top_view_cropped_small.jpg' width=800>
 <TODO - Upload models and images>
 
 <img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_in_blender_small.jpg' width=800>
