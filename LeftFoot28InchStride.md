@@ -11,7 +11,7 @@ This should illustrate how pressure releases change in appearance in a track in 
 # In Wet Sand
 <img src='/LeftFoot28InchStride/LF_28in_Strind_wet_Sand_top_view_cropped_small.JPG' width=800>
 
-<img src='/LeftFoot28InchStride/lf_28in_Stride_Wet_Sand_In_Blender_Textured_Small.jpg' width=800>
+<img src='/LeftFoot28InchStride/lf_28in_Stride_Wet_Sand_In_Blender_Textured_small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
 <a id="raw-url" href="https://raw.githubusercontent.com/TrackerLounge/DigitalTrackingPit/master/LeftFoot28InchStride/LF_28in_Stride_Wet_Sand_textured_decimated_4.zip">Download FILE - LF_28in_Stride_Wet_Sand_textured_decimated_4.zip</a>
