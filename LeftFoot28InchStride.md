@@ -9,6 +9,8 @@ This should illustrate how pressure releases change in appearance in a track in 
 <img src='/LeftFoot28InchStride/LF_28in_Stride_Diagram.png' width=800>
 
 # In Wet Sand
+<img src='/LeftFoot28InchStride/LF_28in_Strind_wet_Sand_top_view_cropped_small.JPG' width=800>
+
 TODO - Upload models and images
 
 <img src='/LeftFoot28InchStride/lf_28in_Stride_Wet_Sand_In_Blender_small.jpg' width=800>
