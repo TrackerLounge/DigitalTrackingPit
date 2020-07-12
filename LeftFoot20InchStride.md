@@ -112,6 +112,10 @@ Based on FFT Bandpass Filter - "Filter large structures down to" = 20 and "Filte
 
 <img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_FFT20_3_Small.jpg' width=800>
 
+If we scale the 3D model on the Z-axis by a factor of 10, then shade it allong the z-axis, and the Based on FFT Bandpass Filter - "Filter large structures down to" = 300 and "Filter small structures up to" = 10 we get
+
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_scaled_z_10_FFT300_10_small.jpg' width=800>
+
 <img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_textured_in_blender_small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
