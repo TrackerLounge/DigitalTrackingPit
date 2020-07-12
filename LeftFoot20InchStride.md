@@ -69,6 +69,10 @@ Based on FFT Bandpass Filter - "Filter large structures down to" = 100
 
 <img src='/LeftFoot20InchStride/lf_20in_Stride_Pack_Sand_Binary_FFT100_Small.jpg' width=800>
 
+Based on FFT Bandpass Filter - "Filter large structures down to" = 40
+
+<img src='/LeftFoot20InchStride/lf_20in_Stride_Pack_Sand_Binary_FFT40_Small.jpg' width=800>
+
 <img src='/LeftFoot20InchStride/lf_20in_Stride_Pack_Sand_In_Blender_Textured_Small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
