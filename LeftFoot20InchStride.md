@@ -86,6 +86,32 @@ If you would like to take a look at the mesh in blender, the untextured track.bl
 # In Cup of Sand on Concrete
 <img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_top_view_cropped_small.jpg' width=800>
 
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_Small.jpg' width=800>
+
+Based on FFT Bandpass Filter - "Filter large structures down to" = 600
+
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_FFT600_Small.jpg' width=800>
+
+Based on FFT Bandpass Filter - "Filter large structures down to" = 300
+
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_FFT300_Small.jpg' width=800>
+
+Based on FFT Bandpass Filter - "Filter large structures down to" = 200
+
+<img src='/LeftFoot20InchStride/lf_20in_Stride_Pack_Sand_Binary_FFT200_Small.jpg' width=800>
+
+Based on FFT Bandpass Filter - "Filter large structures down to" = 100
+
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_FFT100_Small.jpg' width=800>
+
+Based on FFT Bandpass Filter - "Filter large structures down to" = 40
+
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_FFT40_Small.jpg' width=800>
+
+Based on FFT Bandpass Filter - "Filter large structures down to" = 20 and "Filter small structures up to" = 3
+
+<img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_FFT20_3_Small.jpg' width=800>
+
 <img src='/LeftFoot20InchStride/LF_20in_Stride_1_Cup_Sand_On_Concrete_textured_in_blender_small.jpg' width=800>
 
 If you would like to take a look at the mesh in blender, the track.blend file can be downloaded from:
